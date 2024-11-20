@@ -1,1 +1,1 @@
-//Math library for later usuage
+//Math library for later usage
